@@ -1,7 +1,7 @@
 # 🏫 IFPE - Campus Belo Jardim
 
-[![Followers](https://img.shields.io/github/followers/jardimdesoftware?label=Followers\&style=social)](https://github.com/jardimdesoftware)
-[![Org stars](https://img.shields.io/github/stars/jardimdesoftware?label=Org%20Stars)](https://github.com/jardimdesoftware)
+[![Followers](https://img.shields.io/github/followers/ifpebj-ti?label=Followers\&style=social)](https://github.com/ifpebj-ti)
+[![Org stars](https://img.shields.io/github/stars/ifpebj-ti?label=Org%20Stars)](https://github.com/ifpebj-ti)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fuol.com.br\&label=website)](portal.ifpe.edu.br/belo-jardim/)
 
